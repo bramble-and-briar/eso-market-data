@@ -21690,7 +21690,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="421", ["date"]="2026-10-02", ["commonQuantity"]="1", ["minimum"]="99", ["maximum"]="1000"
+                  ["average"]="285", ["date"]="2026-10-03", ["commonQuantity"]="1", ["minimum"]="50", ["maximum"]="500"
                 },
                 ["03"] = {
                   ["average"]="126", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="50", ["maximum"]="1100"
