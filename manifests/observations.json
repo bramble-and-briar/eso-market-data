@@ -21450,20 +21450,20 @@
       "uncompressedBytes": 66430
     },
     "data/segments/observations/xbox-na/2026/10/01.jsonl.gz": {
-      "records": 412,
-      "sha256": "fc8bc8b7e9adc9d67514ce0e1aed9338c9f6e3575518af560a4fb4b005f51538",
+      "records": 414,
+      "sha256": "ea546f1e4e4a6b581bcbc7ec153e3e1c126f3340b3b82f75756750163c8894ed",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
-      "compressedBytes": 4756,
-      "uncompressedBytes": 68692
+      "lastDate": "2026-10-18",
+      "compressedBytes": 4764,
+      "uncompressedBytes": 69025
     },
     "data/segments/observations/xbox-na/2026/10/02.jsonl.gz": {
-      "records": 375,
-      "sha256": "63989dea715c6b6d11c4f795fe833820f9ccb084fe841afb32536dfcbc7a83fe",
+      "records": 376,
+      "sha256": "966068db2b2bccbcd9409af34e08801cfd40947999f5bf25b153e7ef34a168aa",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
-      "compressedBytes": 4463,
-      "uncompressedBytes": 62525
+      "lastDate": "2026-10-18",
+      "compressedBytes": 4467,
+      "uncompressedBytes": 62688
     },
     "data/segments/observations/xbox-na/2026/10/03.jsonl.gz": {
       "records": 392,
@@ -21474,12 +21474,12 @@
       "uncompressedBytes": 65426
     },
     "data/segments/observations/xbox-na/2026/10/04.jsonl.gz": {
-      "records": 457,
-      "sha256": "2e566ccce07088ab8305360ec2d5c8637ca3d443611cd24aa995cc6efd07afec",
+      "records": 458,
+      "sha256": "7d3527c42f7cc2d465dccbff80f68138c9e44ca8b551d30f34974fc8cda2bbaa",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
-      "compressedBytes": 5387,
-      "uncompressedBytes": 76239
+      "lastDate": "2026-10-18",
+      "compressedBytes": 5392,
+      "uncompressedBytes": 76406
     },
     "data/segments/observations/xbox-na/2026/10/05.jsonl.gz": {
       "records": 388,
@@ -21490,20 +21490,20 @@
       "uncompressedBytes": 64754
     },
     "data/segments/observations/xbox-na/2026/10/06.jsonl.gz": {
-      "records": 416,
-      "sha256": "b27416dc04cefb92b72402e3a0e57ce5014b9f9b5a10f2af0ec0488b34a222ed",
+      "records": 418,
+      "sha256": "e97887817d70b6d3c61e5d86784bf2e17825de778d8f369ba5777ee85985f560",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
-      "compressedBytes": 4868,
-      "uncompressedBytes": 69274
+      "lastDate": "2026-10-18",
+      "compressedBytes": 4875,
+      "uncompressedBytes": 69607
     },
     "data/segments/observations/xbox-na/2026/10/07.jsonl.gz": {
-      "records": 439,
-      "sha256": "abc34e959cf7608fe59edf4e6a4ccd54a44e0e318bb0f056bae58d8f29bad94c",
+      "records": 440,
+      "sha256": "63bcfbf2b640ae71242b699a464de5a67cee2585c49e16738e47813bd24f4daf",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
-      "compressedBytes": 5161,
-      "uncompressedBytes": 73121
+      "lastDate": "2026-10-18",
+      "compressedBytes": 5165,
+      "uncompressedBytes": 73284
     },
     "data/segments/observations/xbox-na/2026/10/08.jsonl.gz": {
       "records": 414,
@@ -21514,12 +21514,12 @@
       "uncompressedBytes": 69126
     },
     "data/segments/observations/xbox-na/2026/10/09.jsonl.gz": {
-      "records": 409,
-      "sha256": "beca7c4f13c81365c08550b405964724b02e783f706dbe018cd67324b1cb0bbc",
+      "records": 410,
+      "sha256": "cfd4fd7ca76fad6c5de8c233c58ded947e4b6652a246053ef355d8c513bfa163",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
-      "compressedBytes": 4855,
-      "uncompressedBytes": 68041
+      "lastDate": "2026-10-18",
+      "compressedBytes": 4862,
+      "uncompressedBytes": 68204
     },
     "data/segments/observations/xbox-na/2026/10/10.jsonl.gz": {
       "records": 396,
@@ -21562,12 +21562,12 @@
       "uncompressedBytes": 68494
     },
     "data/segments/observations/xbox-na/2026/10/15.jsonl.gz": {
-      "records": 377,
-      "sha256": "737a15639cf7a343fe192764efa15dc7a8fc9e8c1ac5998ce4ae2912ca884d8b",
+      "records": 378,
+      "sha256": "f864cf7eb8a537d165ce590fe128ddc330ba28bda86821fbcec0a459ef33fc9c",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
-      "compressedBytes": 4489,
-      "uncompressedBytes": 62905
+      "lastDate": "2026-10-18",
+      "compressedBytes": 4497,
+      "uncompressedBytes": 63070
     },
     "data/segments/observations/xbox-na/2026/10/16.jsonl.gz": {
       "records": 372,
@@ -21578,12 +21578,12 @@
       "uncompressedBytes": 62010
     },
     "data/segments/observations/xbox-na/2026/10/17.jsonl.gz": {
-      "records": 403,
-      "sha256": "7b934ee948c57c737712fd5a70f16debf0ad5c0131e1ee7c5e18b7b33209e06a",
+      "records": 404,
+      "sha256": "a5f84bb7b6c43710dfbe6f9d0933108d0e66e980f24b028a20fba98faa5afc85",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
-      "compressedBytes": 4754,
-      "uncompressedBytes": 67259
+      "lastDate": "2026-10-18",
+      "compressedBytes": 4757,
+      "uncompressedBytes": 67422
     },
     "data/segments/observations/xbox-na/2026/10/18.jsonl.gz": {
       "records": 402,
@@ -21594,12 +21594,12 @@
       "uncompressedBytes": 66980
     },
     "data/segments/observations/xbox-na/2026/10/19.jsonl.gz": {
-      "records": 427,
-      "sha256": "f6f0a3a6a0e59f4ae82b2cc66caf5a5bc7fd6a8da240ccb985bb8ef57f707979",
+      "records": 428,
+      "sha256": "e36c29bdeca63611736b2b56d1abb0c426862a6d4abc574e5a55812c779361b6",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
-      "compressedBytes": 5032,
-      "uncompressedBytes": 71221
+      "lastDate": "2026-10-18",
+      "compressedBytes": 5037,
+      "uncompressedBytes": 71390
     },
     "data/segments/observations/xbox-na/2026/10/20.jsonl.gz": {
       "records": 446,
@@ -21626,12 +21626,12 @@
       "uncompressedBytes": 66172
     },
     "data/segments/observations/xbox-na/2026/10/23.jsonl.gz": {
-      "records": 383,
-      "sha256": "392494ffee50a38799c6ba91682e4d58cedef756a1e9dfc391f694ce565f7073",
+      "records": 384,
+      "sha256": "00ee36b7652cb529dc94196f6955d4a9aef9bd44826215972e9a2d273ade6056",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
-      "compressedBytes": 4540,
-      "uncompressedBytes": 63827
+      "lastDate": "2026-10-18",
+      "compressedBytes": 4546,
+      "uncompressedBytes": 63992
     },
     "data/segments/observations/xbox-na/2026/10/24.jsonl.gz": {
       "records": 346,
@@ -21650,20 +21650,20 @@
       "uncompressedBytes": 73598
     },
     "data/segments/observations/xbox-na/2026/10/26.jsonl.gz": {
-      "records": 415,
-      "sha256": "9b28da2cf54ccf3fd7ce9fac068d8a588df6e3336a307418a081ffa27b07237a",
+      "records": 416,
+      "sha256": "c42a9aee2b0f97adbbb9c267d45d8778654176b7bb5bf77f6b18ee8a36523c92",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
-      "compressedBytes": 4915,
-      "uncompressedBytes": 69190
+      "lastDate": "2026-10-18",
+      "compressedBytes": 4922,
+      "uncompressedBytes": 69354
     },
     "data/segments/observations/xbox-na/2026/10/27.jsonl.gz": {
-      "records": 435,
-      "sha256": "5502f4ef3dc0ab9874aa5dedb5892b919ce15f60bfbeffbe2ff6630d87ae5ec5",
+      "records": 436,
+      "sha256": "3545977a2cfd13640018dffb39540ddc23b2a51dd81b5c60805605122a3eb873",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
-      "compressedBytes": 5141,
-      "uncompressedBytes": 72577
+      "lastDate": "2026-10-18",
+      "compressedBytes": 5146,
+      "uncompressedBytes": 72747
     },
     "data/segments/observations/xbox-na/2026/10/28.jsonl.gz": {
       "records": 412,
@@ -21690,36 +21690,36 @@
       "uncompressedBytes": 66362
     },
     "data/segments/observations/xbox-na/2026/10/31.jsonl.gz": {
-      "records": 451,
-      "sha256": "ae1805467d3a3689449f925e8df5a5ac5e8de1e100bf4dc30ff31daa89e51663",
+      "records": 452,
+      "sha256": "6061f0ec243afa740e5fb617fd3aab35ff75612dc3527f2328030ecdd1f5929a",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
-      "compressedBytes": 5371,
-      "uncompressedBytes": 75077
+      "lastDate": "2026-10-18",
+      "compressedBytes": 5378,
+      "uncompressedBytes": 75244
     },
     "data/segments/observations/xbox-na/2026/10/32.jsonl.gz": {
-      "records": 397,
-      "sha256": "6345a9c4a1afcb7085eef27927a03011976b83711064f21df9084683ca8bbbfa",
+      "records": 398,
+      "sha256": "8d2f68a4b3e9c568f990cf644685262ea2c75839c8d3a70e8c7fd9fc7fb783cf",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
-      "compressedBytes": 4688,
-      "uncompressedBytes": 66112
+      "lastDate": "2026-10-18",
+      "compressedBytes": 4696,
+      "uncompressedBytes": 66276
     },
     "data/segments/observations/xbox-na/2026/10/33.jsonl.gz": {
-      "records": 387,
-      "sha256": "a624db658d1cb6864f05588a8e623fc814b2b73614d638e700451e94e725d065",
+      "records": 388,
+      "sha256": "75a98967cafa8de1550a7e16cb90975201f7a4952af5b972b76f117cd664c76a",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
-      "compressedBytes": 4569,
-      "uncompressedBytes": 64344
+      "lastDate": "2026-10-18",
+      "compressedBytes": 4573,
+      "uncompressedBytes": 64509
     },
     "data/segments/observations/xbox-na/2026/10/34.jsonl.gz": {
-      "records": 403,
-      "sha256": "a8a802c827495fa786cac092032b9d1b9b3904ee56a340e5b94b5c568afd98c4",
+      "records": 404,
+      "sha256": "da6a658689dd8b35a0fa6c1f9fa882645bff94264ee32431f04da8c8c048ae09",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
-      "compressedBytes": 4777,
-      "uncompressedBytes": 67214
+      "lastDate": "2026-10-18",
+      "compressedBytes": 4784,
+      "uncompressedBytes": 67379
     },
     "data/segments/observations/xbox-na/2026/10/35.jsonl.gz": {
       "records": 446,
@@ -21730,20 +21730,20 @@
       "uncompressedBytes": 74380
     },
     "data/segments/observations/xbox-na/2026/10/36.jsonl.gz": {
-      "records": 357,
-      "sha256": "b15906733f337904d41106ab903d870bee2698be51acd7e1e2d54e4b3fa05717",
+      "records": 358,
+      "sha256": "9a37dc954657a5cc9edffeab4fa75812db8fe4702e9bf477508e226b8058e34e",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
-      "compressedBytes": 4266,
-      "uncompressedBytes": 59458
+      "lastDate": "2026-10-18",
+      "compressedBytes": 4268,
+      "uncompressedBytes": 59622
     },
     "data/segments/observations/xbox-na/2026/10/37.jsonl.gz": {
-      "records": 373,
-      "sha256": "1a834fbf2f825222263aadb94cbf6d19c3ee547e7c1cfae8c8d3f577b330eb95",
+      "records": 374,
+      "sha256": "61c60047ea8ec2a51a3689903835c1f7217a5d6b050730b862072542314f6e28",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
-      "compressedBytes": 4447,
-      "uncompressedBytes": 62013
+      "lastDate": "2026-10-18",
+      "compressedBytes": 4452,
+      "uncompressedBytes": 62178
     },
     "data/segments/observations/xbox-na/2026/10/38.jsonl.gz": {
       "records": 450,
@@ -21754,12 +21754,12 @@
       "uncompressedBytes": 75212
     },
     "data/segments/observations/xbox-na/2026/10/39.jsonl.gz": {
-      "records": 431,
-      "sha256": "69ee9c0ae7d65719ef4aff46f5d2d0262333d124db5395f93f2b58900e8db8f4",
+      "records": 432,
+      "sha256": "a9b4c02e108b02d3d49d9041f47779d8dcaff2901752f0822e4a6252795a6d4e",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
-      "compressedBytes": 5060,
-      "uncompressedBytes": 71733
+      "lastDate": "2026-10-18",
+      "compressedBytes": 5064,
+      "uncompressedBytes": 71894
     },
     "data/segments/observations/xbox-na/2026/10/40.jsonl.gz": {
       "records": 400,
@@ -21794,12 +21794,12 @@
       "uncompressedBytes": 75068
     },
     "data/segments/observations/xbox-na/2026/10/44.jsonl.gz": {
-      "records": 395,
-      "sha256": "792a87f4fda9fd029f7966972795550d9cec9e2b8e309d3aad3d024207446d54",
+      "records": 396,
+      "sha256": "2d5e7e304d2d281976e0b971bbbc51b5fc76b712cafcd840a5c12859acd71ed6",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
-      "compressedBytes": 4637,
-      "uncompressedBytes": 65735
+      "lastDate": "2026-10-18",
+      "compressedBytes": 4642,
+      "uncompressedBytes": 65898
     },
     "data/segments/observations/xbox-na/2026/10/45.jsonl.gz": {
       "records": 422,
@@ -21810,28 +21810,28 @@
       "uncompressedBytes": 70272
     },
     "data/segments/observations/xbox-na/2026/10/46.jsonl.gz": {
-      "records": 393,
-      "sha256": "10dfc935a66109a2f628cfc0a5b873586635ee577c07af2f71c635c3d8169401",
+      "records": 394,
+      "sha256": "8bd0351cedeb22d49783f6dd39cd548192ded2327e799673729a6d55b8802365",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
-      "compressedBytes": 4643,
-      "uncompressedBytes": 65580
+      "lastDate": "2026-10-18",
+      "compressedBytes": 4647,
+      "uncompressedBytes": 65746
     },
     "data/segments/observations/xbox-na/2026/10/47.jsonl.gz": {
-      "records": 423,
-      "sha256": "e35b4d5b81f94487a647e03f2b239e112b3aa78f12c0dd7173d1cfccc88ee4b5",
+      "records": 424,
+      "sha256": "d8345ccbe51fe921260b3a45ea342b1705acde030d60c0aadf1202d307a3b3e9",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
-      "compressedBytes": 5045,
-      "uncompressedBytes": 70473
+      "lastDate": "2026-10-18",
+      "compressedBytes": 5051,
+      "uncompressedBytes": 70636
     },
     "data/segments/observations/xbox-na/2026/10/48.jsonl.gz": {
-      "records": 409,
-      "sha256": "442706fb454da2f5e1c5b8ba316c779a7315c960bbb18149008507abe232e670",
+      "records": 410,
+      "sha256": "550132ab405af41ad6858f78f70a5d176438b8ad6753cbf52c9a958793c378e5",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
-      "compressedBytes": 4838,
-      "uncompressedBytes": 68181
+      "lastDate": "2026-10-18",
+      "compressedBytes": 4842,
+      "uncompressedBytes": 68345
     },
     "data/segments/observations/xbox-na/2026/10/49.jsonl.gz": {
       "records": 382,
@@ -21850,20 +21850,20 @@
       "uncompressedBytes": 59286
     },
     "data/segments/observations/xbox-na/2026/10/51.jsonl.gz": {
-      "records": 405,
-      "sha256": "31e328b63256bd47135060b837906c159dfbc6922ea0c8f19cd0fdc7d134d19a",
+      "records": 406,
+      "sha256": "6f7dccf2a0fc97e5ce784e8ec71ce1d2df7c5934ab8ccf5ef4f56ed7c8a30374",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
-      "compressedBytes": 4901,
-      "uncompressedBytes": 67474
+      "lastDate": "2026-10-18",
+      "compressedBytes": 4907,
+      "uncompressedBytes": 67637
     },
     "data/segments/observations/xbox-na/2026/10/52.jsonl.gz": {
-      "records": 441,
-      "sha256": "d4090648825bded558311ff32d9003c6e630a9d3b13b329129e590190e3582f2",
+      "records": 442,
+      "sha256": "5ab6e09537fc0152b5549e0946dda4d01205dd222fa2a9d44c18e607ac03e707",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
-      "compressedBytes": 5236,
-      "uncompressedBytes": 73546
+      "lastDate": "2026-10-18",
+      "compressedBytes": 5239,
+      "uncompressedBytes": 73714
     },
     "data/segments/observations/xbox-na/2026/10/53.jsonl.gz": {
       "records": 432,
@@ -21882,12 +21882,12 @@
       "uncompressedBytes": 61358
     },
     "data/segments/observations/xbox-na/2026/10/55.jsonl.gz": {
-      "records": 407,
-      "sha256": "bb8bfbb92d5868acc13530d0748f072c498d8e1c035eceb9c8a24b5f703ce9fd",
+      "records": 408,
+      "sha256": "15ab6fd444b0a987b5fdcd7c70178c9054916dffc3726b6945b6ff9b4bd394f9",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
-      "compressedBytes": 4809,
-      "uncompressedBytes": 67743
+      "lastDate": "2026-10-18",
+      "compressedBytes": 4812,
+      "uncompressedBytes": 67904
     },
     "data/segments/observations/xbox-na/2026/10/56.jsonl.gz": {
       "records": 364,
@@ -21898,12 +21898,12 @@
       "uncompressedBytes": 60762
     },
     "data/segments/observations/xbox-na/2026/10/57.jsonl.gz": {
-      "records": 440,
-      "sha256": "83d20e07aed479ed874365e5aeb76aeb2fcf0403c1b8805c646e577a3d673f9e",
+      "records": 442,
+      "sha256": "92806f521280dabf24d9ee29afd91f24d0104271ff4ed06a45e0aa5162ff6969",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
-      "compressedBytes": 5080,
-      "uncompressedBytes": 73410
+      "lastDate": "2026-10-18",
+      "compressedBytes": 5091,
+      "uncompressedBytes": 73740
     },
     "data/segments/observations/xbox-na/2026/10/58.jsonl.gz": {
       "records": 394,
@@ -21914,12 +21914,12 @@
       "uncompressedBytes": 65596
     },
     "data/segments/observations/xbox-na/2026/10/59.jsonl.gz": {
-      "records": 391,
-      "sha256": "234b1429da95ecbfa51922c836bd9ea6b99eb2fe3d1bc00225b3a477a9eeb268",
+      "records": 392,
+      "sha256": "4f4d778df106b6386c723044b0f95efac20f3db5ceef8d8c33018d53409392cf",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
+      "lastDate": "2026-10-18",
       "compressedBytes": 4641,
-      "uncompressedBytes": 65136
+      "uncompressedBytes": 65301
     },
     "data/segments/observations/xbox-na/2026/10/60.jsonl.gz": {
       "records": 390,
@@ -21930,12 +21930,12 @@
       "uncompressedBytes": 64928
     },
     "data/segments/observations/xbox-na/2026/10/61.jsonl.gz": {
-      "records": 429,
-      "sha256": "5a63a75f4121c49999f64e7718b99657f83bc60e69487dfba1f029669ab4daec",
+      "records": 430,
+      "sha256": "cda619ab13b2a8a534f0423a0d40763bca33139aa2dbc195c0a3105bb47564de",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
-      "compressedBytes": 5059,
-      "uncompressedBytes": 71531
+      "lastDate": "2026-10-18",
+      "compressedBytes": 5058,
+      "uncompressedBytes": 71696
     },
     "data/segments/observations/xbox-na/2026/10/62.jsonl.gz": {
       "records": 372,
@@ -21954,28 +21954,28 @@
       "uncompressedBytes": 61046
     },
     "data/segments/observations/xbox-na/2026/10/64.jsonl.gz": {
-      "records": 430,
-      "sha256": "25316ac8a372d4790f999b627a545bb72360b0f346456c075ec39559a92d463a",
+      "records": 432,
+      "sha256": "01308ebc5d1b809a7e7bc251998d8116583fbc147f59d8354777f752a0ae8f23",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
-      "compressedBytes": 5017,
-      "uncompressedBytes": 71674
+      "lastDate": "2026-10-18",
+      "compressedBytes": 5029,
+      "uncompressedBytes": 72003
     },
     "data/segments/observations/xbox-na/2026/10/65.jsonl.gz": {
-      "records": 453,
-      "sha256": "e7df1ea4721238d730ce4b3bfb65d7d01383fb9906eb1fd26e3a9cff14c99589",
+      "records": 454,
+      "sha256": "e57ff5eb3a7dadfbb3edfadabdcd1c0ebcd0dad91a87b8cb75bad03b4693da0c",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
-      "compressedBytes": 5298,
-      "uncompressedBytes": 75580
+      "lastDate": "2026-10-18",
+      "compressedBytes": 5304,
+      "uncompressedBytes": 75744
     },
     "data/segments/observations/xbox-na/2026/10/66.jsonl.gz": {
-      "records": 421,
-      "sha256": "07e493dc8bc3b062768efd69e9dcbe032bd920db8e2f061ffb1d8450e5c8ecf3",
+      "records": 422,
+      "sha256": "8aa90531de41df34a2b9a6c1c897e279688bb76132eed59e515bf1ee7e2d7c14",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
-      "compressedBytes": 4997,
-      "uncompressedBytes": 69908
+      "lastDate": "2026-10-18",
+      "compressedBytes": 5002,
+      "uncompressedBytes": 70071
     },
     "data/segments/observations/xbox-na/2026/10/67.jsonl.gz": {
       "records": 374,
@@ -21986,12 +21986,12 @@
       "uncompressedBytes": 62314
     },
     "data/segments/observations/xbox-na/2026/10/68.jsonl.gz": {
-      "records": 423,
-      "sha256": "c58f0dfa3279c73d57efeca3e3ec6b1bc4b5d19b6e89611499f23772cc48988c",
+      "records": 424,
+      "sha256": "956bf53ae97db4ef870ab6eb904b3a28250509c68843c8b78f3d2da6261ff936",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
-      "compressedBytes": 4999,
-      "uncompressedBytes": 70461
+      "lastDate": "2026-10-18",
+      "compressedBytes": 5004,
+      "uncompressedBytes": 70626
     },
     "data/segments/observations/xbox-na/2026/10/69.jsonl.gz": {
       "records": 374,
@@ -22034,12 +22034,12 @@
       "uncompressedBytes": 72114
     },
     "data/segments/observations/xbox-na/2026/10/74.jsonl.gz": {
-      "records": 411,
-      "sha256": "428a1dee533b0f88122d7c864710375e5ffbd2ddc2550a818fc13a82ceeaae83",
+      "records": 412,
+      "sha256": "bbd6676fb450850ad2bc206373bd19e71c2a98e75c5adfcc20abc50ea4d9df15",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
-      "compressedBytes": 4861,
-      "uncompressedBytes": 68421
+      "lastDate": "2026-10-18",
+      "compressedBytes": 4867,
+      "uncompressedBytes": 68584
     },
     "data/segments/observations/xbox-na/2026/10/75.jsonl.gz": {
       "records": 442,
@@ -22058,28 +22058,28 @@
       "uncompressedBytes": 66030
     },
     "data/segments/observations/xbox-na/2026/10/77.jsonl.gz": {
-      "records": 383,
-      "sha256": "2003fc4fd5e58aede0f6cd2e97d76abf9261f48b85c1a5c5e30bdc580fa7378c",
+      "records": 384,
+      "sha256": "125e8f5151690af48bd5b623756bf4cce5c03f3a3e436891740117f501fe703a",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
-      "compressedBytes": 4540,
-      "uncompressedBytes": 63766
+      "lastDate": "2026-10-18",
+      "compressedBytes": 4546,
+      "uncompressedBytes": 63931
     },
     "data/segments/observations/xbox-na/2026/10/78.jsonl.gz": {
-      "records": 393,
-      "sha256": "840588b17bd04340529c522c5f8bc26acdfb4deba567b26fef83d99b1bd04791",
+      "records": 394,
+      "sha256": "9e2d3fdc8fd317fe02f6e85db67900494a9576ce2c112415edd32ee746eeb21e",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
-      "compressedBytes": 4653,
-      "uncompressedBytes": 65535
+      "lastDate": "2026-10-18",
+      "compressedBytes": 4657,
+      "uncompressedBytes": 65704
     },
     "data/segments/observations/xbox-na/2026/10/79.jsonl.gz": {
-      "records": 369,
-      "sha256": "e5716465efc8b91310d3ecd2e28ffc5daee4eedac3fbfc5609489c760b4296e6",
+      "records": 370,
+      "sha256": "df188e560dba17d0a3d0c1085761b8d0d21d14ecc7d9eb462ecb566a0bbdb60e",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
-      "compressedBytes": 4378,
-      "uncompressedBytes": 61486
+      "lastDate": "2026-10-18",
+      "compressedBytes": 4379,
+      "uncompressedBytes": 61650
     },
     "data/segments/observations/xbox-na/2026/10/80.jsonl.gz": {
       "records": 398,
@@ -22090,12 +22090,12 @@
       "uncompressedBytes": 66324
     },
     "data/segments/observations/xbox-na/2026/10/81.jsonl.gz": {
-      "records": 369,
-      "sha256": "2f578057fd5b54a2586ae547fc32b97b7d36513d49776c9c362bbe0f1da6b5a3",
+      "records": 370,
+      "sha256": "8d71da7665f6aa3858d08bf0a19910a5640096351bd972288471dd50490784d1",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
-      "compressedBytes": 4383,
-      "uncompressedBytes": 61484
+      "lastDate": "2026-10-18",
+      "compressedBytes": 4389,
+      "uncompressedBytes": 61650
     },
     "data/segments/observations/xbox-na/2026/10/82.jsonl.gz": {
       "records": 418,
@@ -22106,12 +22106,12 @@
       "uncompressedBytes": 69780
     },
     "data/segments/observations/xbox-na/2026/10/83.jsonl.gz": {
-      "records": 333,
-      "sha256": "64572ffe5c1f98a4e1da7ba0b3362afcbca3a71d7524bb3fe7c5591cf8354573",
+      "records": 334,
+      "sha256": "8f6066fffdbf7714eaab1e157f8285827ff468600d2025dff8eb39ce7adb979e",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
-      "compressedBytes": 3922,
-      "uncompressedBytes": 55373
+      "lastDate": "2026-10-18",
+      "compressedBytes": 3927,
+      "uncompressedBytes": 55536
     },
     "data/segments/observations/xbox-na/2026/10/84.jsonl.gz": {
       "records": 380,
@@ -22130,12 +22130,12 @@
       "uncompressedBytes": 62754
     },
     "data/segments/observations/xbox-na/2026/10/86.jsonl.gz": {
-      "records": 419,
-      "sha256": "13ad013de7673d6d3f40b01557e586e9db508a431622bf022a1509c9fc2bbfac",
+      "records": 420,
+      "sha256": "4eba570e3cf0e60551b4b940b25258827e9b5f0337364db1382474ae8e413b8b",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
-      "compressedBytes": 4953,
-      "uncompressedBytes": 69879
+      "lastDate": "2026-10-18",
+      "compressedBytes": 4957,
+      "uncompressedBytes": 70044
     },
     "data/segments/observations/xbox-na/2026/10/87.jsonl.gz": {
       "records": 394,
@@ -22154,20 +22154,20 @@
       "uncompressedBytes": 60120
     },
     "data/segments/observations/xbox-na/2026/10/89.jsonl.gz": {
-      "records": 416,
-      "sha256": "fc3d4c21dd129ecc7ba660200dd0580cfc824ce33f50686486356d29ffcd06d7",
+      "records": 418,
+      "sha256": "f1cf87c8e178efd1db7400e733394a010ec5771fbd15b2ff03dc4f725e6ed4d2",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
-      "compressedBytes": 4844,
-      "uncompressedBytes": 69210
+      "lastDate": "2026-10-18",
+      "compressedBytes": 4850,
+      "uncompressedBytes": 69540
     },
     "data/segments/observations/xbox-na/2026/10/90.jsonl.gz": {
-      "records": 419,
-      "sha256": "91f4105078c556200bec24c0c22be3e8b116794966169a08d6290d4db996d88e",
+      "records": 420,
+      "sha256": "4910d776e5ea7ea869c0307d17fc37905cb14e4cb16fd15444f4dc731bf631a0",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
-      "compressedBytes": 5018,
-      "uncompressedBytes": 69804
+      "lastDate": "2026-10-18",
+      "compressedBytes": 5022,
+      "uncompressedBytes": 69968
     },
     "data/segments/observations/xbox-na/2026/10/91.jsonl.gz": {
       "records": 382,
@@ -22226,12 +22226,12 @@
       "uncompressedBytes": 59942
     },
     "data/segments/observations/xbox-na/2026/10/98.jsonl.gz": {
-      "records": 458,
-      "sha256": "4b53cb4a13bd8eae77babe4e9dbe75a68df2e4622ca00520f37a3900b9e3440a",
+      "records": 460,
+      "sha256": "4663c2d159d565de962a9bc8600868e16689c3ff4c6cb0f4b68f49fcd4414a26",
       "firstDate": "2026-10-01",
-      "lastDate": "2026-10-17",
-      "compressedBytes": 5368,
-      "uncompressedBytes": 76233
+      "lastDate": "2026-10-18",
+      "compressedBytes": 5381,
+      "uncompressedBytes": 76561
     },
     "data/segments/observations/xbox-na/2026/10/99.jsonl.gz": {
       "records": 372,
