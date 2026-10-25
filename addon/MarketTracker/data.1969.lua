@@ -8564,7 +8564,7 @@
               },
               ["--"] = {
                 ["--"] = {
-                  ["average"]="27960", ["date"]="2026-10-24", ["commonQuantity"]="1", ["minimum"]="5090", ["maximum"]="74189"
+                  ["average"]="27960", ["date"]="2026-10-25", ["commonQuantity"]="1", ["minimum"]="5090", ["maximum"]="74189"
                 },
                 ["04"] = {
                   ["average"]="34628", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="34628", ["maximum"]="34628"
