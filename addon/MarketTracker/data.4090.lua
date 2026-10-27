@@ -29169,7 +29169,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="546", ["date"]="2026-10-26", ["commonQuantity"]="1", ["minimum"]="80", ["maximum"]="1688"
+                  ["average"]="1489", ["date"]="2026-10-27", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="2175"
                 }
               }
             },
