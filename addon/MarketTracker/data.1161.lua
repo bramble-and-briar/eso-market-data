@@ -5533,6 +5533,13 @@
                   ["average"]="7000", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="7000", ["maximum"]="7000"
                 }
               }
+            },
+            ["ps-eu"] = {
+              ["--"] = {
+                ["--"] = {
+                  ["average"]="3000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="3000", ["maximum"]="3000"
+                }
+              }
             }
           })[tostring(platform)]
         end
@@ -8293,6 +8300,13 @@
               ["--"] = {
                 ["--"] = {
                   ["average"]="14433", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="3300", ["maximum"]="22000"
+                }
+              }
+            },
+            ["ps-na"] = {
+              ["--"] = {
+                ["--"] = {
+                  ["average"]="6850", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="6850", ["maximum"]="6850"
                 }
               }
             }
@@ -13908,6 +13922,13 @@
                   ["average"]="1000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="1000"
                 }
               }
+            },
+            ["xbox-eu"] = {
+              ["--"] = {
+                ["--"] = {
+                  ["average"]="500", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="500", ["maximum"]="500"
+                }
+              }
             }
           })[tostring(platform)]
         end
@@ -18643,7 +18664,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="609", ["date"]="2026-10-28", ["commonQuantity"]="1", ["minimum"]="50", ["maximum"]="3000"
+                  ["average"]="472", ["date"]="2026-10-29", ["commonQuantity"]="1", ["minimum"]="300", ["maximum"]="1100"
                 }
               }
             },
@@ -30802,7 +30823,7 @@
             ["xbox-eu"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="1000"
+                  ["average"]="3000", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="1000", ["maximum"]="5000"
                 }
               }
             }

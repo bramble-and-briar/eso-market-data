@@ -8892,7 +8892,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="302", ["date"]="2026-10-28", ["commonQuantity"]="1", ["minimum"]="99", ["maximum"]="888"
+                  ["average"]="970", ["date"]="2026-10-29", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="2102"
                 },
                 ["03"] = {
                   ["average"]="164", ["date"]="2025-11-13", ["commonQuantity"]="1", ["minimum"]="50", ["maximum"]="2200"
@@ -10959,6 +10959,13 @@
               ["--"] = {
                 ["--"] = {
                   ["average"]="115870", ["date"]="2026-07-26", ["commonQuantity"]="1", ["minimum"]="108478", ["maximum"]="135000"
+                }
+              }
+            },
+            ["xbox-eu"] = {
+              ["--"] = {
+                ["--"] = {
+                  ["average"]="29999", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="29999", ["maximum"]="29999"
                 }
               }
             }
@@ -22694,7 +22701,7 @@
             ["ps-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="40", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="40", ["maximum"]="40"
+                  ["average"]="60", ["date"]="2025-12-24", ["commonQuantity"]="1", ["minimum"]="40", ["maximum"]="160"
                 }
               }
             }
@@ -31494,7 +31501,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1641", ["date"]="2026-10-28", ["commonQuantity"]="1", ["minimum"]="575", ["maximum"]="3300"
+                  ["average"]="1710", ["date"]="2026-10-29", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="5500"
                 },
                 ["03"] = {
                   ["average"]="1682", ["date"]="2025-11-02", ["commonQuantity"]="1", ["minimum"]="10", ["maximum"]="16500"
@@ -35103,7 +35110,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1421", ["date"]="2026-10-28", ["commonQuantity"]="1", ["minimum"]="90", ["maximum"]="2225"
+                  ["average"]="595", ["date"]="2026-10-29", ["commonQuantity"]="1", ["minimum"]="420", ["maximum"]="1000"
                 }
               }
             },
