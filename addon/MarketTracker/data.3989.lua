@@ -13627,7 +13627,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="38", ["date"]="2026-10-29", ["commonQuantity"]="40", ["minimum"]="38", ["maximum"]="38"
+                  ["average"]="45", ["date"]="2026-10-30", ["commonQuantity"]="50", ["minimum"]="21", ["maximum"]="54"
                 }
               }
             },
@@ -23735,7 +23735,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="3528", ["date"]="2026-10-29", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="8995"
+                  ["average"]="3114", ["date"]="2026-10-30", ["commonQuantity"]="1", ["minimum"]="300", ["maximum"]="6251"
                 }
               }
             },
@@ -24662,7 +24662,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="443", ["date"]="2026-10-29", ["commonQuantity"]="1", ["minimum"]="99", ["maximum"]="1024"
+                  ["average"]="356", ["date"]="2026-10-30", ["commonQuantity"]="1", ["minimum"]="100", ["maximum"]="659"
                 }
               }
             },
