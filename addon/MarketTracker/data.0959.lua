@@ -14257,7 +14257,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="450", ["date"]="2026-11-05", ["commonQuantity"]="1", ["minimum"]="99", ["maximum"]="950"
+                  ["average"]="450", ["date"]="2026-11-06", ["commonQuantity"]="1", ["minimum"]="99", ["maximum"]="950"
                 }
               }
             },
@@ -29343,7 +29343,7 @@
             ["xbox-na"] = {
               ["--"] = {
                 ["--"] = {
-                  ["average"]="1116", ["date"]="2026-11-05", ["commonQuantity"]="1", ["minimum"]="50", ["maximum"]="1499"
+                  ["average"]="750", ["date"]="2026-11-06", ["commonQuantity"]="1", ["minimum"]="200", ["maximum"]="1031"
                 }
               }
             },
